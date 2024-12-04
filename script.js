@@ -36,7 +36,7 @@ $(function () {
       ""
     ],
     albumArtworks = ["_1"],
-    trackUrl = ["https://szagrande.github.io/wrn/important.mp3"
+    trackUrl = ["https://szagrande.github.io/Is/lov.mp3"
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
