@@ -30,7 +30,7 @@ $(function () {
     buffInterval = null,
     tFlag = false,
     albums = [
-      "piep"
+      " 🪦"
     ],
     trackNames = [
       ""
